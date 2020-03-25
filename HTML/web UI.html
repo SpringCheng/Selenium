@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action="">
+    喜欢的动漫
+    <input type="text"><br>
+    <input type="radio" value="male" id="mouse">male<br>
+    <input type="radio" value="'female">female<br>
+    <input type="checkbox">秦时明月<br>
+    <input type="checkbox" id="dongman"> 火影忍者<br>
+
+</form>
+
+
+<a href="https://www.baidu.com">百度</a>
+</form>
+<script>
+    window.onload = function () {
+        alert('everything is rady');
+    }
+    document.getElementById('dongman').onclick = function () {
+        alert("hi,stop to onclick");
+    }
+    a = document.getElementById('mouse');
+
+    a.onmouseover = function () {
+        a.style.color = 'red';
+    }
+    a.onmouseleave = function () {
+        a.style.color = 'green';
+    }
+</script>
+</body>
+</html>
+
