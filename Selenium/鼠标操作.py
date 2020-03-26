@@ -24,13 +24,13 @@ driver.maximize_window()
 ele = driver.find_element_by_xpath("//*[@id='u1']//a[@name='tj_settingicon']")
 
 # # (2)、实例Actionchains类
-# ac = ActionChains(driver)
+# action = ActionChains(driver)
 #
 # # (3)、将鼠标操作存储在action列表中
 # ac.move_to_element(ele)
 #
 # # (4)、调用perform（）来执行鼠标操作
-# ac.perform()
+# action.perform()
 
 # 2、(2)(3)(4)步合成一步写   鼠标移到某一个元素上，弹出下拉列表
 ActionChains(driver).move_to_element(ele).perform()

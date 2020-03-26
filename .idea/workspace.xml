@@ -13,6 +13,7 @@
     <SUITE FILE_PATH="coverage/Lemon$s3.coverage" NAME="s3 Coverage Results" MODIFIED="1585121307860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start_20200321" />
     <SUITE FILE_PATH="coverage/Lemon$alert.coverage" NAME="alert切换 Coverage Results" MODIFIED="1585129562599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start_20200321" />
     <SUITE FILE_PATH="coverage/Lemon$.coverage" NAME="键盘操作 Coverage Results" MODIFIED="1585213270170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/Lemon$js.coverage" NAME="js处理日历控件 Coverage Results" MODIFIED="1585219497396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
     <SUITE FILE_PATH="coverage/Lemon$2.coverage" NAME="窗口切换2 Coverage Results" MODIFIED="1585146802121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Lemon$basic.coverage" NAME="basic Coverage Results" MODIFIED="1585040202002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start_20200321" />
     <SUITE FILE_PATH="coverage/Lemon$Selenium.coverage" NAME="Selenium Coverage Results" MODIFIED="1585120899649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/start_20200321" />
@@ -38,7 +39,7 @@
     <session id="698479398">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -53,79 +54,21 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Python" value="53" />
+          <entry key="Python" value="54" />
           <entry key="TypeScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="633" />
-          <entry key="PLAIN_TEXT" value="43" />
-          <entry key="Python" value="5425" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Python" value="5947" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/鼠标操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-              <folding>
-                <element signature="e#174#238#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/下拉操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="17" />
-              <folding>
-                <element signature="e#49#113#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/键盘操作.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="e#49#96#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Selenium/js处理滚动条.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-              <folding>
-                <element signature="e#50#97#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="609" lean-forward="true" selection-start-line="609" selection-end-line="609" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -162,6 +105,9 @@
         <option value="$PROJECT_DIR$/Selenium/键盘操作.py" />
         <option value="$PROJECT_DIR$/Selenium/Js.py" />
         <option value="$PROJECT_DIR$/Selenium/js处理滚动条.py" />
+        <option value="$PROJECT_DIR$/Selenium/js处理日历看见.py" />
+        <option value="$PROJECT_DIR$/Selenium/js处理日历控件.py" />
+        <option value="$PROJECT_DIR$/Selenium/鼠标操作.py" />
       </list>
     </option>
   </component>
@@ -172,9 +118,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2553" />
-    <option name="y" value="7" />
-    <option name="width" value="1279" />
+    <option name="x" value="2555" />
+    <option name="width" value="1594" />
     <option name="height" value="1240" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -194,12 +139,7 @@
             <path>
               <item name="Lemon" type="b2602c69:ProjectViewProjectNode" />
               <item name="Lemon" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lemon" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Lemon" type="462c0819:PsiDirectoryNode" />
-              <item name="Selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="Webservice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,28 +195,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="窗口切换2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Lemon" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\Practice\Pycharm\Lemon\Selenium\窗口切换2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="鼠标操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -321,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iframe切换" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="js处理滚动条" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Lemon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,7 +252,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/iframe切换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/js处理滚动条.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="js处理日历控件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Lemon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium/js处理日历控件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +284,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.窗口切换2" />
-      <item itemvalue="Python.iframe切换" />
-      <item itemvalue="Python.鼠标操作" />
-      <item itemvalue="Python.下拉操作" />
       <item itemvalue="Python.键盘操作" />
+      <item itemvalue="Python.js处理滚动条" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.js处理滚动条" />
         <item itemvalue="Python.键盘操作" />
-        <item itemvalue="Python.下拉操作" />
-        <item itemvalue="Python.鼠标操作" />
-        <item itemvalue="Python.iframe切换" />
-        <item itemvalue="Python.窗口切换2" />
       </list>
     </recent_temporary>
   </component>
@@ -374,15 +308,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2555" y="8" width="1023" height="992" extended-state="0" />
-    <editor active="true" />
+    <frame x="2556" y="3" width="1274" height="992" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27150258" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2713816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20116279" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20116279" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -569,26 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/鼠标操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding>
-            <element signature="e#174#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Selenium/下拉操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#49#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-263">
@@ -603,30 +516,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="609" lean-forward="true" selection-start-line="609" selection-end-line="609" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/鼠标操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="e#174#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/下拉操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-184">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#49#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/键盘操作.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="391">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selenium/js处理日历控件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="568">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
-            <element signature="e#49#96#0" expanded="true" />
+            <element signature="e#242#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Selenium/js处理滚动条.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="22" selection-end-column="65" />
           <folding>
             <element signature="e#50#97#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="609" lean-forward="true" selection-start-line="609" selection-end-line="609" />
         </state>
       </provider>
     </entry>
